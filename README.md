@@ -124,6 +124,9 @@ select any username in the first column of the above file and check the same
 
 ## Output:
 
+<img width="720" height="400" alt="img12-ex03" src="https://github.com/user-attachments/assets/8f99353a-52bb-4fe3-b412-e0b6ebfb9c55" />
+
+
 ![img13-ex03](img/img13-ex03.png)
 
 
