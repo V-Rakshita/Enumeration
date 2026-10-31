@@ -67,7 +67,7 @@ link: This operator allows you to search for pages that link to a specific URL. 
 
 ## Output:
 
-![img05-ex06](img/img05-ex06.png)
+![img05-ex03](img/img05-ex03.png)
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
@@ -85,7 +85,7 @@ Top level domain expansion
 
 ## OUTPUT:
 
-![img07-ex06](img/img07-ex06.png)
+![img07-ex03](img/img07-ex03.png)
 
 
 ![img08-ex03](img/img08-ex03.png)
@@ -111,7 +111,7 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 
 ![img10-ex03](img/img10-ex03.png)
 
-![img11-ex03](img/img11-ex03.png)
+![img11-ex03](img/img11-03.png)
 
 
 # #smtp-user-enum
